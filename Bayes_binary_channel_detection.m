@@ -15,7 +15,7 @@
 % % Conditional costs are assumed to be 1 for incorrect prediction
 % %-----------------------------------------------------------------------
 % 
-% p0 = 0.1;   % Probability of '0' transmission
+% p0 = 0.5;   % Probability of '0' transmission
 % p1 = 1 - p0;
 % 
 % % Build the Probability Transition Matrix
